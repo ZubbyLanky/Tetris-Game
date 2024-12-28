@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nwora/Documents/FinialProject/FinialProject/Content/Sounds/bgm2.mp3</SourceFile>
+  <SourceTime>2023-01-13T03:49:28-05:00</SourceTime>
+  <DestFile>C:/Users/nwora/Documents/FinialProject/FinialProject/Content/bin/DesktopGL/Content/Sounds/bgm2.xnb</DestFile>
+  <DestTime>2024-12-14T07:28:14.140641-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

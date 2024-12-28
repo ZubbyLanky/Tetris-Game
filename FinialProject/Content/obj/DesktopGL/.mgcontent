@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Fonts/File.spritefont</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Sounds/bgm2.mp3</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Sounds/gameover.mp3</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Sounds/levelup.mp3</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Sounds/merge.mp3</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Sounds/remove_row.mp3</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/paused.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_1.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_2.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_3.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_4.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_5.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_6.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_7.png</File>
+    <File>C:/Users/nwora/Documents/Prog2470/FinialProject/FinialProject/Content/Textures/tile_fixed.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
